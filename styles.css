@@ -62,7 +62,7 @@ body {
   background-color: var(--white);
   border-radius: 12px;
   overflow: hidden;
-  padding: 2rem;
+  padding: 2.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -114,7 +114,7 @@ p {
 .prep-time__list {
   margin-top: 1rem;
   padding-left: 1rem;
-  gap: 1rem;
+  line-height: 2rem;
   font-family: var(--font-body);
   color: var(--stone-900);
 }
